@@ -1,5 +1,6 @@
 first
 second
+<<<<<<< HEAD
 third
 
 
@@ -7,3 +8,6 @@ third
 
 
 -- Mylove
+=======
+00000
+>>>>>>> 0
